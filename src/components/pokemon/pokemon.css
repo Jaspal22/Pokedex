@@ -1,0 +1,25 @@
+
+.poke-card{
+    display: flex;
+    flex-direction: column;
+    width: 330px;
+    height: 400px;
+    border-radius: 20px;
+}
+.img-sec > img{
+    width: 290px;
+    height: 320px;
+}
+.text-sec h2{
+    text-decoration: none;
+    color: black;
+}
+.text-sec{
+    display: block;
+    width: 100%;
+    text-align: center;
+    letter-spacing: 0.5rem;
+}
+.poke-card:hover{
+    background: #abeb9f;
+}

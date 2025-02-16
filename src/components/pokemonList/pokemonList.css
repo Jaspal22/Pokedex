@@ -1,0 +1,22 @@
+.pokemon-list-wraper{
+    text-align: center;
+    width: 100vw;
+    margin: 1rem auto;
+}
+.d-flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.controls button{
+    padding: 0.5rem;
+    width: 100px;
+    margin-left: 20px;
+    border-radius: 10px;
+    /* background-color: #467638; */
+    /* color: beige; */
+}
+/* .controls button:hover{
+    background-color: #ece8c2;
+    color: #020216;
+} */

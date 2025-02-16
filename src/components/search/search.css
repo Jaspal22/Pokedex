@@ -1,0 +1,10 @@
+.search-wraper{
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 20px;
+
+}
+#pokemon-name-search{
+    width: 100%;
+    padding: 1rem;
+}
